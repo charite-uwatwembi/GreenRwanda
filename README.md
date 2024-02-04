@@ -13,7 +13,7 @@ Welcome to GreenRwandaHub.com – your go-to platform for eco-friendly living an
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/greenRwandaHub.git`
+1. Clone the repository: `git clone https://github.com/charite-uwatwembi/greenRwandaHub.git`
 2. Navigate to the project directory: `cd greenRwandaHub`
 3. Install dependencies:
    - Frontend: `cd frontend && npm install`
